@@ -24,6 +24,12 @@ public class CreateContactTest {
 		{
 			System.out.println("deleted contact ");
 		}
+		@Test(groups="Smoke")
+		public void modified()
+		
+		{
+			System.out.println("modified");
+		}
 	}
 
 
