@@ -22,6 +22,12 @@ public class CreateOrgTest {
 	{
 		System.out.println("deleted organization ");
 	}
-
+    
+	@Test(groups="regression")
+	public void changesdone()
+	
+	{
+		System.out.println("changes done");
+	}
 
 }
