@@ -30,6 +30,12 @@ public class CreateContactTest {
 		{
 			System.out.println("modified");
 		}
+		@Test(groups="Smoke")
+		public void again()
+		
+		{
+			System.out.println("modified");
+		}
 	}
 
 
